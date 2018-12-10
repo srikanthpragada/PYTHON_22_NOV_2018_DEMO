@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1358441e-9567-47d0-9922-a02eb5528379" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/course.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/course.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/course.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,8 +70,15 @@
       <file leaf-file-name="course.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oop/course.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="168">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#93#195#0" />
+                <element signature="e#273#324#0" />
+                <element signature="e#228#285#0" />
+                <element signature="e#353#454#0" />
+                <element signature="e#508#539#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -331,12 +337,12 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.145469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.145469" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17701863" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11801242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -711,8 +717,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oop/course.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#93#195#0" />
+            <element signature="e#273#324#0" />
+            <element signature="e#228#285#0" />
+            <element signature="e#353#454#0" />
+            <element signature="e#508#539#0" />
+          </folding>
         </state>
       </provider>
     </entry>
