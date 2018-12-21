@@ -1,0 +1,248 @@
+AFG,Afghanistan,Kabul,27657145,IRN:PAK:TKM:UZB:TJK:CHN
+ALA,Åland Islands,Mariehamn,28875,None
+ALB,Albania,Tirana,2886026,MNE:GRC:MKD:KOS
+DZA,Algeria,Algiers,40400000,TUN:LBY:NER:ESH:MRT:MLI:MAR
+ASM,American Samoa,Pago Pago,57100,None
+AND,Andorra,Andorra la Vella,78014,FRA:ESP
+AGO,Angola,Luanda,25868000,COG:COD:ZMB:NAM
+AIA,Anguilla,The Valley,13452,None
+ATA,Antarctica,,1000,None
+ATG,Antigua and Barbuda,Saint John's,86295,None
+ARG,Argentina,Buenos Aires,43590400,BOL:BRA:CHL:PRY:URY
+ARM,Armenia,Yerevan,2994400,AZE:GEO:IRN:TUR
+ABW,Aruba,Oranjestad,107394,None
+AUS,Australia,Canberra,24117360,None
+AUT,Austria,Vienna,8725931,CZE:DEU:HUN:ITA:LIE:SVK:SVN:CHE
+AZE,Azerbaijan,Baku,9730500,ARM:GEO:IRN:RUS:TUR
+BHS,Bahamas,Nassau,378040,None
+BHR,Bahrain,Manama,1404900,None
+BGD,Bangladesh,Dhaka,161006790,MMR:IND
+BRB,Barbados,Bridgetown,285000,None
+BLR,Belarus,Minsk,9498700,LVA:LTU:POL:RUS:UKR
+BEL,Belgium,Brussels,11319511,FRA:DEU:LUX:NLD
+BLZ,Belize,Belmopan,370300,GTM:MEX
+BEN,Benin,Porto-Novo,10653654,BFA:NER:NGA:TGO
+BMU,Bermuda,Hamilton,61954,None
+BTN,Bhutan,Thimphu,775620,CHN:IND
+BOL,Bolivia (Plurinational State of),Sucre,10985059,ARG:BRA:CHL:PRY:PER
+BES,Bonaire, Sint Eustatius and Saba,Kralendijk,17408,None
+BIH,Bosnia and Herzegovina,Sarajevo,3531159,HRV:MNE:SRB
+BWA,Botswana,Gaborone,2141206,NAM:ZAF:ZMB:ZWE
+BVT,Bouvet Island,,0,None
+BRA,Brazil,Brasília,206135893,ARG:BOL:COL:GUF:GUY:PRY:PER:SUR:URY:VEN
+IOT,British Indian Ocean Territory,Diego Garcia,3000,None
+UMI,United States Minor Outlying Islands,,300,None
+VGB,Virgin Islands (British),Road Town,28514,None
+VIR,Virgin Islands (U.S.),Charlotte Amalie,114743,None
+BRN,Brunei Darussalam,Bandar Seri Begawan,411900,MYS
+BGR,Bulgaria,Sofia,7153784,GRC:MKD:ROU:SRB:TUR
+BFA,Burkina Faso,Ouagadougou,19034397,BEN:CIV:GHA:MLI:NER:TGO
+BDI,Burundi,Bujumbura,10114505,COD:RWA:TZA
+KHM,Cambodia,Phnom Penh,15626444,LAO:THA:VNM
+CMR,Cameroon,Yaoundé,22709892,CAF:TCD:COG:GNQ:GAB:NGA
+CAN,Canada,Ottawa,36155487,USA
+CPV,Cabo Verde,Praia,531239,None
+CYM,Cayman Islands,George Town,58238,None
+CAF,Central African Republic,Bangui,4998000,CMR:TCD:COD:COG:SSD:SDN
+TCD,Chad,N'Djamena,14497000,CMR:CAF:LBY:NER:NGA:SSD
+CHL,Chile,Santiago,18191900,ARG:BOL:PER
+CHN,China,Beijing,1377422166,AFG:BTN:MMR:HKG:IND:KAZ:PRK:KGZ:LAO:MAC:MNG:PAK:RUS:TJK:VNM
+CXR,Christmas Island,Flying Fish Cove,2072,None
+CCK,Cocos (Keeling) Islands,West Island,550,None
+COL,Colombia,Bogotá,48759958,BRA:ECU:PAN:PER:VEN
+COM,Comoros,Moroni,806153,None
+COG,Congo,Brazzaville,4741000,AGO:CMR:CAF:COD:GAB
+COD,Congo (Democratic Republic of the),Kinshasa,85026000,AGO:BDI:CAF:COG:RWA:SSD:TZA:UGA:ZMB
+COK,Cook Islands,Avarua,18100,None
+CRI,Costa Rica,San José,4890379,NIC:PAN
+HRV,Croatia,Zagreb,4190669,BIH:HUN:MNE:SRB:SVN
+CUB,Cuba,Havana,11239004,None
+CUW,Curaçao,Willemstad,154843,None
+CYP,Cyprus,Nicosia,847000,GBR
+CZE,Czech Republic,Prague,10558524,AUT:DEU:POL:SVK
+DNK,Denmark,Copenhagen,5717014,DEU
+DJI,Djibouti,Djibouti,900000,ERI:ETH:SOM
+DMA,Dominica,Roseau,71293,None
+DOM,Dominican Republic,Santo Domingo,10075045,HTI
+ECU,Ecuador,Quito,16545799,COL:PER
+EGY,Egypt,Cairo,91290000,ISR:LBY:SDN
+SLV,El Salvador,San Salvador,6520675,GTM:HND
+GNQ,Equatorial Guinea,Malabo,1222442,CMR:GAB
+ERI,Eritrea,Asmara,5352000,DJI:ETH:SDN
+EST,Estonia,Tallinn,1315944,LVA:RUS
+ETH,Ethiopia,Addis Ababa,92206005,DJI:ERI:KEN:SOM:SSD:SDN
+FLK,Falkland Islands (Malvinas),Stanley,2563,None
+FRO,Faroe Islands,Tórshavn,49376,None
+FJI,Fiji,Suva,867000,None
+FIN,Finland,Helsinki,5491817,NOR:SWE:RUS
+FRA,France,Paris,66710000,AND:BEL:DEU:ITA:LUX:MCO:ESP:CHE
+GUF,French Guiana,Cayenne,254541,BRA:SUR
+ATF,French Southern Territories,Port-aux-Français,140,None
+GAB,Gabon,Libreville,1802278,CMR:COG:GNQ
+GMB,Gambia,Banjul,1882450,SEN
+GEO,Georgia,Tbilisi,3720400,ARM:AZE:RUS:TUR
+DEU,Germany,Berlin,81770900,AUT:BEL:CZE:DNK:FRA:LUX:NLD:POL:CHE
+GHA,Ghana,Accra,27670174,BFA:CIV:TGO
+GIB,Gibraltar,Gibraltar,33140,ESP
+GRC,Greece,Athens,10858018,ALB:BGR:TUR:MKD
+GRL,Greenland,Nuuk,55847,None
+GRD,Grenada,St. George's,103328,None
+GLP,Guadeloupe,Basse-Terre,400132,None
+GUM,Guam,Hagåtña,184200,None
+GTM,Guatemala,Guatemala City,16176133,BLZ:SLV:HND:MEX
+GGY,Guernsey,St. Peter Port,62999,None
+GIN,Guinea,Conakry,12947000,CIV:GNB:LBR:MLI:SEN:SLE
+GNB,Guinea-Bissau,Bissau,1547777,GIN:SEN
+GUY,Guyana,Georgetown,746900,BRA:SUR:VEN
+HTI,Haiti,Port-au-Prince,11078033,DOM
+HMD,Heard Island and McDonald Islands,,0,None
+VAT,Holy See,Rome,451,ITA
+HND,Honduras,Tegucigalpa,8576532,GTM:SLV:NIC
+HKG,Hong Kong,City of Victoria,7324300,CHN
+HUN,Hungary,Budapest,9823000,AUT:HRV:ROU:SRB:SVK:SVN:UKR
+ISL,Iceland,Reykjavík,334300,None
+IND,India,New Delhi,1295210000,AFG:BGD:BTN:MMR:CHN:NPL:PAK:LKA
+IDN,Indonesia,Jakarta,258705000,TLS:MYS:PNG
+CIV,Côte d'Ivoire,Yamoussoukro,22671331,BFA:GHA:GIN:LBR:MLI
+IRN,Iran (Islamic Republic of),Tehran,79369900,AFG:ARM:AZE:IRQ:PAK:TUR:TKM
+IRQ,Iraq,Baghdad,37883543,IRN:JOR:KWT:SAU:SYR:TUR
+IRL,Ireland,Dublin,6378000,GBR
+IMN,Isle of Man,Douglas,84497,None
+ISR,Israel,Jerusalem,8527400,EGY:JOR:LBN:SYR
+ITA,Italy,Rome,60665551,AUT:FRA:SMR:SVN:CHE:VAT
+JAM,Jamaica,Kingston,2723246,None
+JPN,Japan,Tokyo,126960000,None
+JEY,Jersey,Saint Helier,100800,None
+JOR,Jordan,Amman,9531712,IRQ:ISR:SAU:SYR
+KAZ,Kazakhstan,Astana,17753200,CHN:KGZ:RUS:TKM:UZB
+KEN,Kenya,Nairobi,47251000,ETH:SOM:SSD:TZA:UGA
+KIR,Kiribati,South Tarawa,113400,None
+KWT,Kuwait,Kuwait City,4183658,IRN:SAU
+KGZ,Kyrgyzstan,Bishkek,6047800,CHN:KAZ:TJK:UZB
+LAO,Lao People's Democratic Republic,Vientiane,6492400,MMR:KHM:CHN:THA:VNM
+LVA,Latvia,Riga,1961600,BLR:EST:LTU:RUS
+LBN,Lebanon,Beirut,5988000,ISR:SYR
+LSO,Lesotho,Maseru,1894194,ZAF
+LBR,Liberia,Monrovia,4615000,GIN:CIV:SLE
+LBY,Libya,Tripoli,6385000,DZA:TCD:EGY:NER:SDN:TUN
+LIE,Liechtenstein,Vaduz,37623,AUT:CHE
+LTU,Lithuania,Vilnius,2872294,BLR:LVA:POL:RUS
+LUX,Luxembourg,Luxembourg,576200,BEL:FRA:DEU
+MAC,Macao,,649100,CHN
+MKD,Macedonia (the former Yugoslav Republic of),Skopje,2058539,ALB:BGR:GRC:KOS:SRB
+MDG,Madagascar,Antananarivo,22434363,None
+MWI,Malawi,Lilongwe,16832910,MOZ:TZA:ZMB
+MYS,Malaysia,Kuala Lumpur,31405416,BRN:IDN:THA
+MDV,Maldives,Malé,344023,None
+MLI,Mali,Bamako,18135000,DZA:BFA:GIN:CIV:MRT:NER:SEN
+MLT,Malta,Valletta,425384,None
+MHL,Marshall Islands,Majuro,54880,None
+MTQ,Martinique,Fort-de-France,378243,None
+MRT,Mauritania,Nouakchott,3718678,DZA:MLI:SEN:ESH
+MUS,Mauritius,Port Louis,1262879,None
+MYT,Mayotte,Mamoudzou,226915,None
+MEX,Mexico,Mexico City,122273473,BLZ:GTM:USA
+FSM,Micronesia (Federated States of),Palikir,102800,None
+MCO,Monaco,Monaco,38400,FRA
+MNG,Mongolia,Ulan Bator,3093100,CHN:RUS
+MNE,Montenegro,Podgorica,621810,ALB:BIH:HRV:KOS:SRB
+MSR,Montserrat,Plymouth,4922,None
+MAR,Morocco,Rabat,33337529,DZA:ESH:ESP
+MOZ,Mozambique,Maputo,26423700,MWI:ZAF:SWZ:TZA:ZMB:ZWE
+MMR,Myanmar,Naypyidaw,51419420,BGD:CHN:IND:LAO:THA
+NAM,Namibia,Windhoek,2324388,AGO:BWA:ZAF:ZMB
+NRU,Nauru,Yaren,10084,None
+NPL,Nepal,Kathmandu,28431500,CHN:IND
+NLD,Netherlands,Amsterdam,17019800,BEL:DEU
+NCL,New Caledonia,Nouméa,268767,None
+NZL,New Zealand,Wellington,4697854,None
+NIC,Nicaragua,Managua,6262703,CRI:HND
+NER,Niger,Niamey,20715000,DZA:BEN:BFA:TCD:LBY:MLI:NGA
+NGA,Nigeria,Abuja,186988000,BEN:CMR:TCD:NER
+NIU,Niue,Alofi,1470,None
+NFK,Norfolk Island,Kingston,2302,None
+PRK,Korea (Democratic People's Republic of),Pyongyang,25281000,CHN:KOR:RUS
+MNP,Northern Mariana Islands,Saipan,56940,None
+NOR,Norway,Oslo,5223256,FIN:SWE:RUS
+OMN,Oman,Muscat,4420133,SAU:ARE:YEM
+PAK,Pakistan,Islamabad,194125062,AFG:CHN:IND:IRN
+PLW,Palau,Ngerulmud,17950,None
+PSE,Palestine, State of,Ramallah,4682467,ISR:EGY:JOR
+PAN,Panama,Panama City,3814672,COL:CRI
+PNG,Papua New Guinea,Port Moresby,8083700,IDN
+PRY,Paraguay,Asunción,6854536,ARG:BOL:BRA
+PER,Peru,Lima,31488700,BOL:BRA:CHL:COL:ECU
+PHL,Philippines,Manila,103279800,None
+PCN,Pitcairn,Adamstown,56,None
+POL,Poland,Warsaw,38437239,BLR:CZE:DEU:LTU:RUS:SVK:UKR
+PRT,Portugal,Lisbon,10374822,ESP
+PRI,Puerto Rico,San Juan,3474182,None
+QAT,Qatar,Doha,2587564,SAU
+KOS,Republic of Kosovo,Pristina,1733842,ALB:MKD:MNE:SRB
+REU,Réunion,Saint-Denis,840974,None
+ROU,Romania,Bucharest,19861408,BGR:HUN:MDA:SRB:UKR
+RUS,Russian Federation,Moscow,146599183,AZE:BLR:CHN:EST:FIN:GEO:KAZ:PRK:LVA:LTU:MNG:NOR:POL:UKR
+RWA,Rwanda,Kigali,11553188,BDI:COD:TZA:UGA
+BLM,Saint Barthélemy,Gustavia,9417,None
+SHN,Saint Helena, Ascension and Tristan da Cunha,Jamestown,4255,None
+KNA,Saint Kitts and Nevis,Basseterre,46204,None
+LCA,Saint Lucia,Castries,186000,None
+MAF,Saint Martin (French part),Marigot,36979,SXM:NLD
+SPM,Saint Pierre and Miquelon,Saint-Pierre,6069,None
+VCT,Saint Vincent and the Grenadines,Kingstown,109991,None
+WSM,Samoa,Apia,194899,None
+SMR,San Marino,City of San Marino,33005,ITA
+STP,Sao Tome and Principe,São Tomé,187356,None
+SAU,Saudi Arabia,Riyadh,32248200,IRQ:JOR:KWT:OMN:QAT:ARE:YEM
+SEN,Senegal,Dakar,14799859,GMB:GIN:GNB:MLI:MRT
+SRB,Serbia,Belgrade,7076372,BIH:BGR:HRV:HUN:KOS:MKD:MNE:ROU
+SYC,Seychelles,Victoria,91400,None
+SLE,Sierra Leone,Freetown,7075641,GIN:LBR
+SGP,Singapore,Singapore,5535000,None
+SXM,Sint Maarten (Dutch part),Philipsburg,38247,MAF
+SVK,Slovakia,Bratislava,5426252,AUT:CZE:HUN:POL:UKR
+SVN,Slovenia,Ljubljana,2064188,AUT:HRV:ITA:HUN
+SLB,Solomon Islands,Honiara,642000,None
+SOM,Somalia,Mogadishu,11079000,DJI:ETH:KEN
+ZAF,South Africa,Pretoria,55653654,BWA:LSO:MOZ:NAM:SWZ:ZWE
+SGS,South Georgia and the South Sandwich Islands,King Edward Point,30,None
+KOR,Korea (Republic of),Seoul,50801405,PRK
+SSD,South Sudan,Juba,12131000,CAF:COD:ETH:KEN:SDN:UGA
+ESP,Spain,Madrid,46438422,AND:FRA:GIB:PRT:MAR
+LKA,Sri Lanka,Colombo,20966000,IND
+SDN,Sudan,Khartoum,39598700,CAF:TCD:EGY:ERI:ETH:LBY:SSD
+SUR,Suriname,Paramaribo,541638,BRA:GUF:FRA:GUY
+SJM,Svalbard and Jan Mayen,Longyearbyen,2562,None
+SWZ,Swaziland,Lobamba,1132657,MOZ:ZAF
+SWE,Sweden,Stockholm,9894888,FIN:NOR
+CHE,Switzerland,Bern,8341600,AUT:FRA:ITA:LIE:DEU
+SYR,Syrian Arab Republic,Damascus,18564000,IRQ:ISR:JOR:LBN:TUR
+TWN,Taiwan,Taipei,23503349,None
+TJK,Tajikistan,Dushanbe,8593600,AFG:CHN:KGZ:UZB
+TZA,Tanzania, United Republic of,Dodoma,55155000,BDI:COD:KEN:MWI:MOZ:RWA:UGA:ZMB
+THA,Thailand,Bangkok,65327652,MMR:KHM:LAO:MYS
+TLS,Timor-Leste,Dili,1167242,IDN
+TGO,Togo,Lomé,7143000,BEN:BFA:GHA
+TKL,Tokelau,Fakaofo,1411,None
+TON,Tonga,Nuku'alofa,103252,None
+TTO,Trinidad and Tobago,Port of Spain,1349667,None
+TUN,Tunisia,Tunis,11154400,DZA:LBY
+TUR,Turkey,Ankara,78741053,ARM:AZE:BGR:GEO:GRC:IRN:IRQ:SYR
+TKM,Turkmenistan,Ashgabat,4751120,AFG:IRN:KAZ:UZB
+TCA,Turks and Caicos Islands,Cockburn Town,31458,None
+TUV,Tuvalu,Funafuti,10640,None
+UGA,Uganda,Kampala,33860700,COD:KEN:RWA:SSD:TZA
+UKR,Ukraine,Kiev,42692393,BLR:HUN:MDA:POL:ROU:RUS:SVK
+ARE,United Arab Emirates,Abu Dhabi,9856000,OMN:SAU
+GBR,United Kingdom of Great Britain and Northern Ireland,London,65110000,IRL
+USA,United States of America,Washington, D.C.,323947000,CAN:MEX
+URY,Uruguay,Montevideo,3480222,ARG:BRA
+UZB,Uzbekistan,Tashkent,31576400,AFG:KAZ:KGZ:TJK:TKM
+VUT,Vanuatu,Port Vila,277500,None
+VEN,Venezuela (Bolivarian Republic of),Caracas,31028700,BRA:COL:GUY
+VNM,Viet Nam,Hanoi,92700000,KHM:CHN:LAO
+WLF,Wallis and Futuna,Mata-Utu,11750,None
+ESH,Western Sahara,El Aaiún,510713,DZA:MRT:MAR
+YEM,Yemen,Sana'a,27478000,OMN:SAU
+ZMB,Zambia,Lusaka,15933883,AGO:BWA:COD:MWI:MOZ:NAM:TZA:ZWE
+ZWE,Zimbabwe,Harare,14240168,BWA:MOZ:ZAF:ZMB
